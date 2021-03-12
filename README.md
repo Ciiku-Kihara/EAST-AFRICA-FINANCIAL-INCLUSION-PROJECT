@@ -23,7 +23,7 @@ More information on the surveys can be found here:
 - Finscope Uganda 2018. http://fsduganda.or.ug/finscope-2018-survey-report/
 
 ## Technologies Used
-I used Python to clean and analyze the data. I particularly used the Pandas library.
+I used Python to clean and analyze the data. I particularly used the Pandas and scikit-learn  libraries.
 
 ## Support and contact details
 If you run into any issues or have questions, ideas or concerns please do make a contribution to the code or 
