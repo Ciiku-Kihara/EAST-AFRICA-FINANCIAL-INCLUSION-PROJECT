@@ -17,10 +17,10 @@ You can get the data and the dataset description for this project here http://bi
 and here respectively http://bit.ly/VariableDefinitions
 
 More information on the surveys can be found here:
-- FinAccess Kenya 2018. [Link]
-- Finscope Rwanda 2016. [Link]
-- Finscope Tanzania 2017. [Link]
-- Finscope Uganda 2018. [Link]
+- FinAccess Kenya 2018. https://fsdkenya.org/publication/finaccess2019/
+- Finscope Rwanda 2016. http://www.statistics.gov.rw/publication/finscope-rwanda-2016
+- Finscope Tanzania 2017. http://www.fsdt.or.tz/finscope/
+- Finscope Uganda 2018. http://fsduganda.or.ug/finscope-2018-survey-report/
 
 ## Technologies Used
 I used Python to clean and analyze the data. I particularly used the Pandas library.
