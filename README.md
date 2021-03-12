@@ -16,6 +16,12 @@ To make changes to my code, you can go ahead and fork my work.
 You can get the data and the dataset description for this project here http://bit.ly/FinancialDataset
 and here respectively http://bit.ly/VariableDefinitions
 
+More information on the surveys can be found here:
+- FinAccess Kenya 2018. [Link]
+- Finscope Rwanda 2016. [Link]
+- Finscope Tanzania 2017. [Link]
+- Finscope Uganda 2018. [Link]
+
 ## Technologies Used
 I used Python to clean and analyze the data. I particularly used the Pandas library.
 
